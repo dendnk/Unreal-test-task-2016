@@ -1,4 +1,4 @@
-# test_task_2016
+# Unreal test task 2016
 Generate objects with given coordinates in a text file and random height from a certain interval.
 
 Main files from the plug-in for generating objects with given coordinates in a text file and random height from a certain interval.
